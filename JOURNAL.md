@@ -14,12 +14,14 @@
 
 ## Contents
 
-1. [2026-10-06 — Work session](#2026-10-06-work-session)
+1. [2026-10-06 — Completed the schematic design in kicad](#2026-10-06-completed-the-schematic-design-in-kicad)
 
 ## Design
 
-### 2026-10-06 — Work session
+### 2026-10-06 — Completed the schematic design in kicad
 
 **2.12h**
+
+Completed the schematic design in kicad
 
 [Timelapse](https://lookout.hackclub.com/api/media/c240a5f6-47f8-47d9-891d-48b65a5ba11f/video.mp4)
