@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-06 — Completed the schematic design in kicad](#2026-10-06-completed-the-schematic-design-in-kicad)
-2. [2026-10-07 — Work session](#2026-10-07-work-session)
+2. [2026-10-07 — Started routing the pcb for the connect 4 game today. i decided to switch to using smd components as it looks cleaner. im done with around 2/3 of the routing, but the next stretch is gonna be tight, s](#2026-10-07-started-routing-the-pcb-for-the-connect-4-game-to)
 
 ## Design
 
@@ -27,8 +27,15 @@ Completed the schematic design in kicad
 
 [Timelapse](https://lookout.hackclub.com/api/media/c240a5f6-47f8-47d9-891d-48b65a5ba11f/video.mp4)
 
-### 2026-10-07 — Work session
+### 2026-10-07 — Started routing the pcb for the connect 4 game today. i decided to switch to using smd components as it looks cleaner. im done with around 2/3 of the routing, but the next stretch is gonna be tight, s
 
 **3.45h**
+
+Started routing the pcb for the connect 4 game today. i decided to switch to using smd components as it looks cleaner. im done with around 2/3 of the routing, but the next stretch is gonna be tight, so thats fun.
+my progress:
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/BtrHULQ2JY2ZY5iQTMNeZPloodOncI0v/175f86029561433628fcc3d097cb554459588b38c738737dcf04e7eac22e2bba.png)
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/BtrHULQ2JY2ZY5iQTMNeZPloodOncI0v/9ca19585e1f599ddbdda347be17caa10ee34988403deb50da1c2f5cb025a4fc8.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/87cf1816-e4ea-486f-986c-96456da35549/video.mp4)
