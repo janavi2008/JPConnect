@@ -10,13 +10,13 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 2 | 8.25h | 3 |
+| Week 1 | Tier 2 | 9.25h | 3 |
 
 ## Contents
 
 1. [2026-10-06 – Completed the schematic design in kicad](#2026-10-06-completed-the-schematic-design-in-kicad)
 2. [2026-10-07 – Started routing the pcb for the connect 4 game today. i decided to switch to using smd components as it looks cleaner. im done with around 2/3 of the routing, but the next stretch is gonna be tight, s](#2026-10-07-started-routing-the-pcb-for-the-connect-4-game-to)
-3. [2026-10-08 – Finished routing the pcb, and it was just as painful as i expected. its a huge mess, but drc came back clean, so hopefully we're good to go! i made a small logo in the corner too.](#2026-10-08-finished-routing-the-pcb-and-it-was-just-as-painf)
+3. [2026-10-08 – Finished routing the pcb, and it was just as painful as i expected. its a huge mess, but drc came back clean, so hopefully we're good to go! i made a small logo in the corner too. i also spent an hour](#2026-10-08-finished-routing-the-pcb-and-it-was-just-as-painf)
 
 ## Design
 
@@ -41,11 +41,11 @@ my progress:
 
 [Timelapse](https://lookout.hackclub.com/api/media/87cf1816-e4ea-486f-986c-96456da35549/video.mp4)
 
-### 2026-10-08 – Finished routing the pcb, and it was just as painful as i expected. its a huge mess, but drc came back clean, so hopefully we're good to go! i made a small logo in the corner too.
+### 2026-10-08 – Finished routing the pcb, and it was just as painful as i expected. its a huge mess, but drc came back clean, so hopefully we're good to go! i made a small logo in the corner too. i also spent an hour
 
-**2.68h**
+**3.68h**
 
-Finished routing the pcb, and it was just as painful as i expected. its a huge mess, but drc came back clean, so hopefully we're good to go! i made a small logo in the corner too.
+Finished routing the pcb, and it was just as painful as i expected. its a huge mess, but drc came back clean, so hopefully we're good to go! i made a small logo in the corner too. i also spent an hour researching and figuring out how to code the firmware, reading the datasheet for the MAX7219, and going through its code library - i dont have much experience coding, so the more info i get, the better.
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/BtrHULQ2JY2ZY5iQTMNeZPloodOncI0v/1fd4ef190f5bcac207a947f36bb65d971c56a90873c355e9ab29225b8f139b46.png)
 
